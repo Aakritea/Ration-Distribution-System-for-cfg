@@ -1,0 +1,34 @@
+<<<<<<< HEAD
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+node_modules
+=======
+Team*.zip
+*.pem
+*.ppk
+*.crt
+*.key
+*.ovpn
+node_modules/
+>>>>>>> 7a141215804b8a905a4714f69c855583b7a7c75f
